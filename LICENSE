@@ -1,0 +1,45 @@
+Copyright (c) 2026 Sachin Adlakha. All rights reserved.
+
+VOICEFLOW PROPRIETARY LICENSE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software (the "Software"), to use the Software for personal and
+commercial purposes, subject to the following conditions:
+
+1. PERMITTED USES
+   You may download, install, and use the Software on any number of devices
+   you own or control.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Redistribute, sublicense, sell, or otherwise transfer the Software
+   - Modify, decompile, reverse engineer, or disassemble the Software
+   - Remove or alter any proprietary notices, labels, or marks
+   - Use the Software to create derivative works
+
+3. INTELLECTUAL PROPERTY
+   The Software and all copies thereof are proprietary to the copyright holder
+   and title thereto remains in the copyright holder. All rights in the
+   Software not specifically granted in this license are reserved.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+5. TERMINATION
+   This license is effective until terminated. It will terminate automatically
+   if you fail to comply with any term of this license. Upon termination, you
+   must destroy all copies of the Software in your possession.
+
+6. THIRD-PARTY COMPONENTS
+   This software includes the following open-source components:
+   - whisper.cpp (MIT License) — https://github.com/ggerganov/whisper.cpp
+   - ONNX Runtime (MIT License) — https://github.com/microsoft/onnxruntime
+   - Tauri (MIT/Apache 2.0 License) — https://github.com/tauri-apps/tauri
+
+   These components retain their original licenses.
